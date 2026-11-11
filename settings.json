@@ -8,7 +8,8 @@
   "server": {
     "ip": "grhs.aternos.me",
     "port": 27433,
-    "version": "26.2"
+    "version": "1.21.1"
+
   },
   "position": {
     "enabled": true,
